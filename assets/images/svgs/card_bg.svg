@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="215" fill="none" viewBox="0 0 420 215">
+  <mask id="a" width="420" height="215" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+    <rect width="420" height="215" fill="#396B5F" rx="12"/>
+  </mask>
+  <g mask="url(#a)">
+    <g filter="url(#b)">
+      <ellipse cx="324.895" cy="32.5" fill="#fff" fill-opacity=".1" rx="290.812" ry="228.5"/>
+    </g>
+    <ellipse cx="-11.5" cy="213" fill="#000" fill-opacity=".04" rx="187.5" ry="77"/>
+    <ellipse cx="410" cy="32.5" fill="#000" fill-opacity=".04" rx="115" ry="60.5"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M632.829 7.223C520.985 20.493 345.636 47.347 434.843 132.12 548.365 239.997 825.778 211.736 702.57 295"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M592.844 5.967C481.001 19.237 305.651 46.09 394.858 130.862c113.522 107.879 390.935 79.617 267.727 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M552.86 2.197C441.016 15.467 265.666 42.32 354.873 127.092 468.396 234.971 745.809 206.71 622.6 289.973"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M513.373-2.83c-111.29 13.27-285.772 40.124-197.006 124.896 112.96 107.878 389 79.617 266.401 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M474.489-7.857C362.645 5.413 187.295 32.267 276.503 117.04c113.522 107.878 390.935 79.617 267.726 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M435.003-12.883C323.713.387 149.231 27.24 237.997 112.012c112.96 107.879 389 79.618 266.401 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M395.018-17.91C283.728-4.64 109.246 22.214 198.012 106.986c112.96 107.878 389 79.617 266.401 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M356.134-22.937C244.291-9.667 68.941 17.187 158.148 101.96c113.522 107.877 390.935 79.616 267.727 162.88"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M316.149-26.706C204.305-13.437 28.955 13.416 118.163 98.189c113.522 107.878 390.935 79.617 267.726 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M276.663-29.22C165.373-15.95-9.109 10.904 79.657 95.676c112.96 107.878 389 79.617 266.401 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M236.678-31.733C125.388-18.463-49.094 8.39 39.672 93.162c112.96 107.879 389 79.618 266.401 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M196.693-34.247C85.403-20.977-89.079 5.877-.313 90.65c112.96 107.878 389 79.617 266.401 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M156.708-35.503C45.418-22.233-129.064 4.62-40.298 89.392c112.96 107.879 389 79.618 266.401 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M116.723-35.503C5.433-22.233-169.048 4.62-80.283 89.392c112.96 107.879 389 79.618 266.402 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M77.84-36.76C-34.005-23.49-209.355 3.364-120.148 88.136-6.624 196.014 270.789 167.753 147.58 251.017"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M37.854-35.503C-73.989-22.233-249.339 4.62-160.132 89.392c113.523 107.879 390.936 79.618 267.727 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M-2.13-34.247C-113.974-20.977-289.324 5.877-200.116 90.65-86.594 198.527 190.819 170.266 67.61 253.53"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M-42.115-31.733C-153.958-18.463-329.308 8.39-240.1 93.162c113.523 107.879 390.936 79.618 267.727 162.881"/>
+    <path stroke="#fff" stroke-opacity=".14" d="M-82.1-29.22C-193.943-15.95-369.293 10.904-280.086 95.676c113.522 107.878 390.935 79.617 267.727 162.881"/>
+  </g>
+  <defs>
+    <filter id="b" width="781.623" height="657" x="-65.916" y="-296" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_3_295" stdDeviation="50"/>
+    </filter>
+  </defs>
+</svg>
